@@ -2,4 +2,4 @@
 
 ## Participants
 
-- [sjsrey](https://github.com/sjsrey)
+- [sjsrey](https://github.com/sjsrey) [cv](https://sergerey.org/cv/)
