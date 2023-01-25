@@ -4,4 +4,4 @@
 
 - [sjsrey](https://github.com/sjsrey)
 - [blah blah](http://google.com)
-- [raffaelen] (https://github.com/raffaelen)
+- [raffaelen](https://github.com/raffaelen)
