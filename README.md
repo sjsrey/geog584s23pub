@@ -5,3 +5,5 @@
 - [sjsrey](https://github.com/sjsrey)
 - [blah blah](http://google.com)
 - [rbilchak](https://github.com/rbilchak)
+- [Hargun](https://github.com/hargun7)
+
