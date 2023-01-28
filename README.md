@@ -12,4 +12,4 @@
 - [raffaelen](https://github.com/raffaelen)
 - [gualonso](https://github.com/gualonso)
 - [ghughes](https://github.com/GeoffreyMHughes)
-- [nvadunlemp] (https://github.com/nvadunlemp)
+- [nvadunlemp](https://github.com/nvadunlemp)
