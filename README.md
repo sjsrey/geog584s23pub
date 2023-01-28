@@ -3,6 +3,9 @@
 ## Participants
 
 - [sjsrey](https://github.com/sjsrey)
+- [Dylan Skrah](https://github.com/fiendskrah)
 - [blah blah](http://google.com)
 - [rbilchak](https://github.com/rbilchak)
 - [WesleyZM](https://github.com/WesleyZM)
+- [raffaelen](https://github.com/raffaelen)
+- [ghughes](https://github.com/GeoffreyMHughes)
