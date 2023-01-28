@@ -4,7 +4,6 @@
 
 - [sjsrey](https://github.com/sjsrey)
 - [Dylan Skrah](https://github.com/fiendskrah)
-- [blah blah](http://google.com)
 - [elizabeth-bushnell](https://github.com/elizabeth-bushnell)
 - [rbilchak](https://github.com/rbilchak)
 - [Hargun](https://github.com/hargun7)
