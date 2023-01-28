@@ -7,6 +7,7 @@
 - [blah blah](http://google.com)
 - [elizabeth-bushnell](https://github.com/elizabeth-bushnell)
 - [rbilchak](https://github.com/rbilchak)
+- [hargun](https://github.com/hargun7)
 - [WesleyZM](https://github.com/WesleyZM)
 - [raffaelen](https://github.com/raffaelen)
 - [gualonso](https://github.com/gualonso)
