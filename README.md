@@ -3,7 +3,10 @@
 ## Participants
 
 - [sjsrey](https://github.com/sjsrey)
+- [Dylan Skrah](https://github.com/fiendskrah)
 - [blah blah](http://google.com)
 - [rbilchak](https://github.com/rbilchak)
+- [WesleyZM](https://github.com/WesleyZM)
 - [raffaelen](https://github.com/raffaelen)
 - [gualonso](https://github.com/gualonso)
+- [ghughes](https://github.com/GeoffreyMHughes)
