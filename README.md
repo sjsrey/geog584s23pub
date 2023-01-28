@@ -8,7 +8,6 @@
 - [rbilchak](https://github.com/rbilchak)
 - [Hargun](https://github.com/hargun7)
 - [azwestensee](https://github.com/azwestensee)
-- [hargun](https://github.com/hargun7)
 - [WesleyZM](https://github.com/WesleyZM)
 - [raffaelen](https://github.com/raffaelen)
 - [gualonso](https://github.com/gualonso)
