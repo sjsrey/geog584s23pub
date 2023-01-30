@@ -13,3 +13,4 @@
 - [gualonso](https://github.com/gualonso)
 - [ghughes](https://github.com/GeoffreyMHughes)
 - [nvadunlemp](https://github.com/nvadunlemp)
+- [calebsmittyy](https://github.com/calebsmittyy)
