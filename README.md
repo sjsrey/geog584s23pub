@@ -14,3 +14,6 @@
 - [ghughes](https://github.com/GeoffreyMHughes)
 - [nvadunlemp](https://github.com/nvadunlemp)
 - [LesSalazar](https://github.com/LesSalazar)
+- [calebsmittyy](https://github.com/calebsmittyy)
+- [hannahsamy](https://github.com/hannahsamy) 
+- [monson-mike](https://github.com/monson-mike)
