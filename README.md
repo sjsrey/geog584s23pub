@@ -5,7 +5,7 @@
 - [sjsrey](https://github.com/sjsrey)
 - [Dylan Skrah](https://github.com/fiendskrah)
 - [elizabeth-bushnell](https://github.com/elizabeth-bushnell)
-- [rbilchak](https://github.com/rbilchak) [CV 2023](https://github.com/rbilchak/CV)
+- [rbilchak](https://github.com/rbilchak) CV 2023 [click here](https://github.com/rbilchak/CV)
 - [Hargun](https://github.com/hargun7)
 - [azwestensee](https://github.com/azwestensee)
 - [WesleyZM](https://github.com/WesleyZM)
