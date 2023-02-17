@@ -12,7 +12,7 @@
 - [raffaelen](https://github.com/raffaelen) - [Curriculum Vitae](https://raffaelen.github.io/markdown-cv/)
 - [gualonso](https://github.com/gualonso)
 - [ghughes](https://github.com/GeoffreyMHughes)
-- [nvadunlemp](https://github.com/nvadunlemp)
+- [nvadunlemp](https://github.com/nvadunlemp) - [CV](https://github.com/nvadunlemp/CV)
 - [LesSalazar](https://github.com/LesSalazar)
 - [calebsmittyy](https://github.com/calebsmittyy)
 - [hannahsamy](https://github.com/hannahsamy) 
