@@ -15,7 +15,8 @@
 - [nvadunlemp](https://github.com/nvadunlemp)
 - [LesSalazar](https://github.com/LesSalazar)
 - [calebsmittyy](https://github.com/calebsmittyy)
-- [hannahsamy](https://github.com/hannahsamy) 
+- [hannahsamy](https://github.com/hannahsamy) - [Curriculum Vitae](https://hannahsamy.github.io/markdown-cv/)
 - [monson-mike](https://github.com/monson-mike)
 - [SJames8](https://github.com/SJames8)
 - [Alee1998](http://github.com/Alee1998)
+
