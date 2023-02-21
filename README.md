@@ -9,7 +9,7 @@
 - [Hargun](https://github.com/hargun7)
 - [azwestensee](https://github.com/azwestensee)
 - [WesleyZM](https://github.com/WesleyZM)
-- [raffaelen](https://github.com/raffaelen)
+- [raffaelen](https://github.com/raffaelen) - [Curriculum Vitae](https://raffaelen.github.io/markdown-cv/)
 - [gualonso](https://github.com/gualonso)
 - [ghughes](https://github.com/GeoffreyMHughes)
 - [nvadunlemp](https://github.com/nvadunlemp)
@@ -19,3 +19,4 @@
 - [monson-mike](https://github.com/monson-mike)
 - [SJames8](https://github.com/SJames8)
 - [MalHarris](https://github.com/MalHarris)
+- [Alee1998](http://github.com/Alee1998)
