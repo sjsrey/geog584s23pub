@@ -11,7 +11,7 @@
 - [WesleyZM](https://github.com/WesleyZM)
 - [raffaelen](https://github.com/raffaelen) - [Curriculum Vitae](https://raffaelen.github.io/markdown-cv/)
 - [gualonso](https://github.com/gualonso)
-- [ghughes](https://github.com/GeoffreyMHughes)
+- [ghughes](https://github.com/GeoffreyMHughes) - [Curriculum Vitae](https://geoffreymhughes.github.io/markdown-cv/)
 - [nvadunlemp](https://github.com/nvadunlemp)
 - [LesSalazar](https://github.com/LesSalazar)
 - [calebsmittyy](https://github.com/calebsmittyy) - [Curriculum Vitae](https://calebsmittyy.github.io/markdown-cv/)
