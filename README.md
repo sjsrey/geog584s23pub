@@ -8,7 +8,7 @@
 - [rbilchak](https://github.com/rbilchak) CV 2023: [click here](https://github.com/rbilchak/CV)
 - [Hargun](https://github.com/hargun7)
 - [azwestensee](https://github.com/azwestensee)
-- [WesleyZM](https://github.com/WesleyZM)
+- [WesleyZM](https://github.com/WesleyZM) [CV](https://github.com/WesleyZM/markdown-cv/blob/master/index.md)
 - [raffaelen](https://github.com/raffaelen) - [Curriculum Vitae](https://raffaelen.github.io/markdown-cv/)
 - [gualonso](https://github.com/gualonso)
 - [ghughes](https://github.com/GeoffreyMHughes) - [Curriculum Vitae](https://geoffreymhughes.github.io/markdown-cv/)
