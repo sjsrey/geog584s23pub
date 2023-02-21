@@ -18,4 +18,5 @@
 - [hannahsamy](https://github.com/hannahsamy) 
 - [monson-mike](https://github.com/monson-mike)
 - [SJames8](https://github.com/SJames8)
+- [MalHarris](https://github.com/MalHarris)
 - [Alee1998](http://github.com/Alee1998)
