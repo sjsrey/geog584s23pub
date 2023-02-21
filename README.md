@@ -7,7 +7,7 @@
 - [elizabeth-bushnell](https://github.com/elizabeth-bushnell)
 - [rbilchak](https://github.com/rbilchak) CV 2023: [click here](https://github.com/rbilchak/CV)
 - [Hargun](https://github.com/hargun7)
-- [azwestensee](https://github.com/azwestensee)
+- [azwestensee](https://github.com/azwestensee) - [Curriculum Vitae](https://azwestensee.github.io/markdown-cv/)
 - [WesleyZM](https://github.com/WesleyZM)
 - [raffaelen](https://github.com/raffaelen) - [Curriculum Vitae](https://raffaelen.github.io/markdown-cv/)
 - [gualonso](https://github.com/gualonso)
