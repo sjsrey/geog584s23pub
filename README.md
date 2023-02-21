@@ -3,7 +3,7 @@
 ## Participants
 
 - [sjsrey](https://github.com/sjsrey)
-- [Dylan Skrah](https://github.com/fiendskrah)
+- [Dylan Skrah](https://github.com/fiendskrah) ([CV](https://fiendskrah.github.io/markdown-cv/))
 - [elizabeth-bushnell](https://github.com/elizabeth-bushnell)
 - [rbilchak](https://github.com/rbilchak) CV 2023: [click here](https://github.com/rbilchak/CV)
 - [Hargun](https://github.com/hargun7)
