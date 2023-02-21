@@ -16,7 +16,7 @@
 - [LesSalazar](https://github.com/LesSalazar)
 - [calebsmittyy](https://github.com/calebsmittyy) - [Curriculum Vitae](https://calebsmittyy.github.io/markdown-cv/)
 - [hannahsamy](https://github.com/hannahsamy) - [Curriculum Vitae](https://hannahsamy.github.io/markdown-cv/)
-- [monson-mike](https://github.com/monson-mike)
+- [monson-mike](https://github.com/monson-mike) - [Curriculum Vitae](https://monson-mike.github.io/markdown-cv/)
 - [SJames8](https://github.com/SJames8)
 - [MalHarris](https://github.com/MalHarris)
 - [Alee1998](http://github.com/Alee1998)
