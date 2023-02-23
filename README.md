@@ -18,6 +18,6 @@
 - [hannahsamy](https://github.com/hannahsamy) - [Curriculum Vitae](https://hannahsamy.github.io/markdown-cv/)
 - [monson-mike](https://github.com/monson-mike) - [Curriculum Vitae](https://monson-mike.github.io/markdown-cv/)
 - [SJames8](https://github.com/SJames8)
-- [MalHarris](https://github.com/MalHarris)
+- [MalHarris](https://github.com/MalHarris) - [Curriculum Vitae](https://github.com/MalHarris/markdown-cv)
 - [Alee1998](http://github.com/Alee1998) - [CV](https://github.com/Alee1998/markdown-cv/blob/master/index.md)
 - [Mmurillo4410](http://github.com/mmurillo4410) [CV](https://github.com/mmurillo4410/markdown-cv/blob/master/index.md)
